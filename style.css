@@ -1,0 +1,112 @@
+body{
+    background-color:  #777;
+    margin: auto;
+    width: 800px;
+   }
+.boxHeader{
+    background-color: white;
+    padding top: 20px;
+     color: #333;
+    height: 45px;
+    width: 800px;
+    text-align: center;
+    margin-bottom: 5px;
+   
+
+    
+}
+.boxNav{
+    background-color: white;
+    color: black;
+    padding top: 20px;
+     width: 800px;
+    height: 45px;
+    text-align: center;
+    margin-bottom: 5px;
+
+}
+.boxAside{
+    background-color: white;
+    color: black;
+    text-align: center;
+    width: 26%;
+    height: 150px;
+    float: right;
+    padding: 80px;
+    padding-top: 40px;
+    border: 3px solid #73AD21;
+    float: right;
+    
+
+}
+.boxSection{
+    background-color: white;
+    color: black;
+    text-align: center;
+    width: 31%;
+    height: 150px;
+   padding: 80px;
+    padding-top: 40px;
+    position: relative;
+    border: 3px solid #73AD21;
+    float: left;
+   
+    
+    
+} 
+
+.boxArticle{
+    background-color: gray;
+    color: black;
+    text-align: center;
+    width: 360px;
+    height: 200px;
+    padding-top: 5px;
+    position: absolute;
+    right: 80px;
+    left: 30px;
+    
+        
+     
+}
+.boxh1{
+    background-color: blue;
+    color: black;
+    text-align: center;
+    width: 340px;
+    height: 50px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+    
+    
+    
+}
+.boxParagraph{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    width: 340px;  
+    height: 50px;
+    margin-top:auto;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.boxFooter{
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 45px;
+    width: 800px;
+    margin-bottom: 20px;
+    padding top: 20px;
+    clear: both;
+    
+   
+}
